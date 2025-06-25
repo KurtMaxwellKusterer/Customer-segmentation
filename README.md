@@ -1,5 +1,5 @@
 # Customer-segmentation
-In this repo we will have notebook based on an in depth look at how customers can be segmented into unique groups using machine learning.  
+In this repo we have a notebook based on an in depth look at how customers can be segmented into unique groups using machine learning.  
 
 We look into a data set of 541 909 invoices with 8 features.
   - InvoiceNo: Invoice number. Nominal, a 6-digit integral number uniquely assigned to each transaction. If this code starts with letter 'c', it indicates a cancellation.
